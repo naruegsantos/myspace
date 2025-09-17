@@ -3,7 +3,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      hello word
+      HELLO WORLD
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat qui, dolorem necessitatibus laborum numquam ex rem quos unde incidunt, error tempore similique velit. Cum labore facilis accusamus earum, animi culpa.
     </>
   );
 }
