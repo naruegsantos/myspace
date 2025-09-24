@@ -7,6 +7,7 @@ export default function Home() {
   
   return (
     <>
+    <h1>titulo</h1>
       <Link href={"/login"}>login</Link>
       HELLO WORLD
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat qui, dolorem necessitatibus laborum numquam ex rem quos unde incidunt, error tempore similique velit. Cum labore facilis accusamus earum, animi culpa.
