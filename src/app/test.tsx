@@ -5,6 +5,7 @@ export default function Test() {
 	return (
 	    <>
 		    <header>esse é o teste</header>
+			<h1>esse é o titulo</h1>
 	    </>
 	);
 }
